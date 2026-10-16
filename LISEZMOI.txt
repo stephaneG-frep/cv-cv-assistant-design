@@ -1,0 +1,7 @@
+Site "CV (assistant) — design"
+
+Ce dossier est un site statique : aucun serveur ni base de données n'est nécessaire.
+
+Pour le visualiser : ouvrez index.html dans un navigateur.
+Pour le publier : envoyez tout le contenu de ce dossier sur un hébergeur statique
+(GitHub Pages, Netlify, Cloudflare Pages, ou tout hébergement web classique).
